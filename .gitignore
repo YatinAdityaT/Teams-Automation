@@ -1,2 +1,5 @@
 credentials.pickle
 geckodriver.log
+students.pickle
+.ipynb_checkpoints\
+__pycache__\
